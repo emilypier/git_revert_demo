@@ -56,6 +56,7 @@ $(function () {
   $('#skill-name').autocomplete({
     source: skillNames,
   });
+<<<<<<< HEAD
 });
 
 // Sortable interaction
@@ -67,3 +68,6 @@ $(function () {
 });
 =======
 >>>>>>> parent of 8100622 (added Datepicker widget)
+=======
+});
+>>>>>>> parent of 5045ab2 (added Sortable interaction)
