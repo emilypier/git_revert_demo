@@ -29,6 +29,7 @@ var handleFormSubmit = function (event) {
 };
 
 formEl.on('submit', handleFormSubmit);
+<<<<<<< HEAD
 
 // Autocomplete widget
 $(function () {
@@ -64,3 +65,5 @@ $(function () {
   });
   $('#skills-list').disableSelection();
 });
+=======
+>>>>>>> parent of 8100622 (added Datepicker widget)
